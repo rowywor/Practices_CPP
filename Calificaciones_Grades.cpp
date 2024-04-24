@@ -1,6 +1,5 @@
 /*
-Rafael_Castanedo_Escobedo 
-Practica_5
+Rafael_Castanedo
 Calculo/Ponderacion de calificaciones de un alumno
 */
 
